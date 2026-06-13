@@ -50,3 +50,4 @@ def calculate_statistics(df):
     }
 
     return stats
+# ...
