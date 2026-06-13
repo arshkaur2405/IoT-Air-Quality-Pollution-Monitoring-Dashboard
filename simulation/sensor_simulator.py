@@ -26,3 +26,4 @@ def generate_sensor_data():
         "humidity": humidity,
         "gas_level": gas_level
     }
+    # ..

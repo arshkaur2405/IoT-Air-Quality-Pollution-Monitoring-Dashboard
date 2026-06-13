@@ -30,3 +30,4 @@ def alert_color(alert):
         alert,
         "UNKNOWN"
     )
+    # ..

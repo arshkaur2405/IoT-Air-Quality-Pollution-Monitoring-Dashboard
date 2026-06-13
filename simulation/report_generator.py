@@ -38,3 +38,4 @@ Recommendation :
     ) as file:
 
         file.write(report)
+        # ..
